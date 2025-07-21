@@ -15,6 +15,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.insights {
+    font-family: 'Ubuntu', sans-serif;
+    color: crimson;
+}
+
 .synapse {
     font-family: 'Ubuntu', sans-serif;
     background: linear-gradient(135deg, #FF2D92, #FF8C00);
